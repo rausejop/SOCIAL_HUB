@@ -1,0 +1,41 @@
+1. SocialHub - Red Social Minimalista
+
+Descripción
+Aplicación de red social enfocada en compartir pensamientos cortos (estilo Twitter/X) con interacción en tiempo real.
+
+Funcionalidades Core
+Posts/Tweets: Crear, editar, eliminar posts (max 280 caracteres)
+
+Timeline: Feed infinito con posts de usuarios
+
+Likes y Comentarios: Interacción con posts
+
+Perfil de Usuario: Biografía, avatar, estadísticas
+
+Búsqueda: Buscar usuarios y posts
+
+Trending: Posts más populares
+
+Base de Datos Local (Room)
+Entities: User, Post, Comment, Like
+
+Caché de posts para offline
+
+Historial de búsquedas
+
+Drafts (borradores)
+
+API/Retrofit
+CRUD de posts
+
+Seguir/dejar de seguir usuarios
+
+Timeline personalizado
+
+Sistema de notificaciones
+
+API Pública Propuesta: JSON Place Hoder https://dummyjson.com/
+https://jsonplaceholder.typicode.com/
+
+
+
