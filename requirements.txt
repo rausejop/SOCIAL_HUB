@@ -1,0 +1,7 @@
+streamlit
+loguru
+pathlib
+sqlite3
+pandas
+extra-streamlit-components
+st-annotated-text
